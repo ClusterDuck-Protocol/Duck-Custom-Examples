@@ -3,6 +3,7 @@
 These are few examples to show how someone can build on top of the ClusterDuck Protocol. It works using the master branch of the ClusterDuck Protocol firmware. 
 
 ## Sensors
+These sensors are tested and confirmed that it works by CDP.
 
 #### BMP180Example
 The BMP180 example is a custom MamaDuck that will send sensor data from the BMP 180 (Temperature, Pressure, Altitude) if integrated with the .
